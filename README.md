@@ -1,5 +1,4 @@
 # KT-Project3
-Project Description
 This program simulates a makeup distribution service, and provides functionality at the client level.
 The user can log in or make an account with the service.  The list of products available is provided to the user, who can then add items to their cart.  
 The user can also see what items they have in their cart.
